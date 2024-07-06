@@ -1,7 +1,7 @@
 # Steps to setup
 
 - clone repo
-- run commands for setup as specified in the video I shared in whatsapp, [2024 React Native course by javascript mastery](https://www.youtube.com/watch?v=ZBCUegTZF7M&t=1720s)
+- run commands for setup as specified in the video I shared, [2024 React Native course by javascript mastery](https://www.youtube.com/watch?v=ZBCUegTZF7M&t=1720s)
 
 # Steps to run
 - npx expo start -c 
